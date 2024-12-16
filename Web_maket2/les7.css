@@ -1,0 +1,157 @@
+
+.Web{
+    color: #2196F3;
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 30.52px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.Studio{
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 30.52px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+    color: black;
+}
+.WebStudio_infoContainer--content{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none; 
+    color: black;   
+}
+.WebStudio_infoContainer--content:hover{
+    color: #2196F3;
+}
+.WebStudio_info--email{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;  
+    color: #2196F3;  
+}
+.WebStudio_info--number{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #757575;    
+}
+.link_container--content{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: black;    
+}
+.link_container--content:hover{
+    background-color: #2196F3;
+    color: #fff;
+}
+.poster_container--title{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.poster_container--text{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #757575;    
+}
+.foot{
+    background-color: #2F303A;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 25px;
+}
+.foot *{
+    color: #fff;
+}
+.web{
+    color: #2196F3;
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 30.52px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.foot_container--title{
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 30.52px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.foot_content--address{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+.foot_content--email{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF99;    
+}
+.foot_content--number{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF99;   
+}
